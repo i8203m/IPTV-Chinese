@@ -15,3 +15,5 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVB 翡翠台
 http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",高清翡翠台
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
