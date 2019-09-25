@@ -9,11 +9,4 @@ http://61.58.60.230:9319/live/205.m3u8
 http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",香港电影频道
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",湖南卫视
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",香港有线电视603
-http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVB 翡翠台
-http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",高清翡翠台
-http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+
