@@ -1,13 +1,47 @@
+Chinese Language
+
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="Hong Kong",香港开电视
+#EXTINF:tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="Chinese",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040756_51110.jpg" group-title="",靖天戲劇
-http://61.58.60.230:9319/live/203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://twg.skyking.com.tw/skyking/Icon/087.png" group-title="",靖天國際
-http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033726_80065.jpg" group-title="",靖天電影
-http://61.58.60.230:9319/live/244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hong Kong",香港电影频道
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0d/TVB_logo.png" group-title="Hong Kong",TVB 翡翠台
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0d/TVB_logo.png" group-title="Chinese", 翡翠台HD
 http://m.567it.com/jade.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel8.jpg" group-title="Chinese", Singapore Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/MediaCorp_ChannelU.jpg" group-title="Chinese",U 频道
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="Chinese", 靖天欢乐HD
+http://61.58.60.230:9319/live/201.m3u8
+
+#EXTINF:tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040756_51110.jpg" group-title="Chinese",靖洋戏剧 HD
+http://61.58.60.230:9319/live/203.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Chinese", 靖天娱乐HD
+http://61.58.60.230:9319/live/204.m3u8
+
+#EXTINF:tvg-logo="https://twg.skyking.com.tw/skyking/Icon/087.png" group-title="Chinese", 靖天國際嘉麗台
+http://61.58.60.230:9319/live/205.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033726_80065.jpg" group-title="Chinese",靖天电影
+http://61.58.60.230:9319/live/244.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033705_42980.jpg" group-title="Chinese",靖天日本HD
+http://61.58.60.230:9319/live/243.m3u8
+
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg" group-title="Chinese",台HBO SD
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+
+#EXTINF:-1 tvg-logo="" group-title="Chinese",香港电影频道
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Chinese",港星空卫视3
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+
+#EXTINF:-1 tvg-logo="" group-title="Chinese",经典粤语喜剧片
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Chinese",周星弛电影台HD
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
