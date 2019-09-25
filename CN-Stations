@@ -46,17 +46,14 @@ http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2
 #EXTINF:-1 tvg-logo="" group-title="Chinese",周星弛电影台HD
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="http://aitomon.com/wp-content/uploads/2017/05/Channel-NewsAsia.png" group-title="Chinese",CHANNEL NEWS ASIA
-http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Chinese",ANIMALPLANETHD 
-http://144.217.70.223:8080/ANIMALPLANETHD_Eng/index.m3u8 
-
-#EXTINF:-1 tvg-logo="" group-title="Chinese", SKY NEWS
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Chinese", Nat Geo People HD ENGLISH 
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC",ANIMALPLANETHD 
+http://144.217.70.223:8080/ANIMALPLANETHD_Eng/index.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", Nat Geo People HD ENGLISH 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8 
 
-#EXTINF:-1 tvg-logo="" group-title="Chinese", Nat Geo People SD ENGLISH
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", Nat Geo People SD ENGLISH
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8 
