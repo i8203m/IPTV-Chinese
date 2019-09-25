@@ -49,6 +49,18 @@ http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2
 #EXTINF:-1 tvg-logo="" group-title="Chinese",周星弛电影台HD
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Chinese",翡翠台 
+http://220.246.214.235:9981/stream/channelid/562140597
+
+#EXTINF:-1 tvg-logo="" group-title="Chinese",J2台 
+http://220.246.214.235:9981/stream/channelid/1632242738
+
+#EXTINF:-1 tvg-logo="" group-title="Chinese",無綫新聞台 
+http://220.246.214.235:9981/stream/channelid/1967738049 
+
+#EXTINF:-1 tvg-logo="" group-title="Chinese",無綫財經資訊台 
+http://220.246.214.235:9981/stream/channelid/883530113
+
 #EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
@@ -66,6 +78,57 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", Nat Geo People SD ENGLISH
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", USA-CNN_Live
+http://configuration.tn:8000/sbss25946/dcba2401/2806
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", US-CNN_live(BK)
+http://configuration.tn:8000/sbss25946/dcba2401/3657
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", USA-ABC_News
+http://configuration.tn:8000/sbss25946/dcba2401/1063
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", CNBC HD
+http://configuration.tn:8000/sbss25946/dcba2401/9130
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", CNN HD
+http://configuration.tn:8000/sbss25946/dcba2401/9162
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", USA_Al-jazeera
+http://configuration.tn:8000/sbss25946/dcba2401/1536
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", UK-RTE_news
+http://configuration.tn:8000/sbss25946/dcba2401/275
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", UK-Atlantic
+http://configuration.tn:8000/sbss25946/dcba2401/422
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", UK-CHANNEL4
+http://configuration.tn:8000/sbss25946/dcba2401/1922
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", UK-CHANNEL5
+http://configuration.tn:8000/sbss25946/dcba2401/1923
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", BBC News 
+https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", BBC World News 
+http://smartersiptv.ddns.net:9000/live/KD9Ldf7Kdg/14pIMYybkm/2664.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", UK_France24_news
+http://configuration.tn:8000/sbss25946/dcba2401/1538
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", UK-BBC1
+http://configuration.tn:8000/sbss25946/dcba2401/1302
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", UK-BBC2
+http://configuration.tn:8000/sbss25946/dcba2401/1303
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", UK-BBC3 HD
+http://configuration.tn:8000/sbss25946/dcba2401/1920
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", BBC 4 HD 
+http://line.dynoconnect.me:8000/5TIRDnihxs/kttlOxW4cm/45335
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", BBC Earth HD 
 http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74632
