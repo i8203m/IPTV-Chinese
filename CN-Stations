@@ -60,4 +60,16 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", BBC Earth HD http://ok2.se:8000/GJg4iwVzRB/vyaufyB7Qe/74632
 
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", NATIONAL GEOGRAPHIC
+http://voxtv.dynns.com:8000/USA/USA/2323
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", DISCOVERY ASIA HD [KP] 
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/365
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", DISCOVERY CHANNEL [KP] 
+http://iptvhit.live/jalurlaut/admin/jalanjalan1/366
+
+
+
+
 
