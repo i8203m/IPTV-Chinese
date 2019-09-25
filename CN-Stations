@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="CHINA",Hong Kong Open TV (HK) (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="Hong Kong",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040756_51110.jpg" group-title="",靖天戲劇
 http://61.58.60.230:9319/live/203.m3u8
@@ -7,6 +7,7 @@ http://61.58.60.230:9319/live/203.m3u8
 http://61.58.60.230:9319/live/205.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033726_80065.jpg" group-title="",靖天電影
 http://61.58.60.230:9319/live/244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",香港电影频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hong Kong",香港电影频道
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0d/TVB_logo.png" group-title="Hong Kong",TVB 翡翠台
+http://m.567it.com/jade.m3u8
