@@ -13,6 +13,9 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/MediaCorp_ChannelU.jpg" group-title="Chinese",U 频道
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel5.jpg" group-title="Chinese", Singapore Channel 5 
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="Chinese", 靖天欢乐HD
 http://61.58.60.230:9319/live/201.m3u8
 
@@ -46,6 +49,12 @@ http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2
 #EXTINF:-1 tvg-logo="" group-title="Chinese",周星弛电影台HD
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Chinese",Astro AEC 
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1723
+
+#EXTINF:-1 tvg-logo="" group-title="Chinese",Astro AOD 
+http://mu01.v5iptv.com:8880/YKNM058/CEhWyEgvpy/1724
+
 #EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
@@ -68,6 +77,11 @@ http://iptvhit.live/jalurlaut/admin/jalanjalan1/365
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", DISCOVERY CHANNEL [KP] 
 http://iptvhit.live/jalurlaut/admin/jalanjalan1/366
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", Channel NewsAsia 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+
 
 
 
