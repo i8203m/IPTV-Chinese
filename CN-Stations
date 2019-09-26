@@ -7,165 +7,97 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0d/TVB_logo.png" group-title="Chinese", 翡翠台HD
 http://m.567it.com/jade.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel8.jpg" group-title="Chinese", 
-
-Singapore Channel 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel8.jpg" group-title="Chinese",Singapore Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/MediaCorp_ChannelU.jpg" group-
-
-title="Chinese",U 频道
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/MediaCorp_ChannelU.jpg" group-title="Chinese",U 频道
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel5.jpg" group-title="Chinese", 
-
-Singapore Channel 5 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel5.jpg" group-title="Chinese",Singapore Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-
-
-title="Chinese", 靖天欢乐HD
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="Chinese", 靖天欢乐HD
 http://61.58.60.230:9319/live/201.m3u8
 
-#EXTINF:tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040756_51110.jpg" group-
-
-title="Chinese",靖洋戏剧 HD
+#EXTINF:tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040756_51110.jpg" group-title="Chinese",靖洋戏剧 HD
 http://61.58.60.230:9319/live/203.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Chinese", 靖天育乐HD
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040733_66835.jpg" group-title="Chinese", 靖天育乐HD
 http://61.58.60.230:9319/live/204.m3u8
 
 #EXTINF:tvg-logo="https://twg.skyking.com.tw/skyking/Icon/087.png" group-title="Chinese", 靖天國際嘉麗台
 http://61.58.60.230:9319/live/205.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033726_80065.jpg" group-
-
-title="Chinese",靖天电影
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033726_80065.jpg" group-title="Chinese",靖天电影
 http://61.58.60.230:9319/live/244.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033705_42980.jpg" group-
-
-title="Chinese",靖天日本HD
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033705_42980.jpg" group-title="Chinese",靖天日本HD
 http://61.58.60.230:9319/live/243.m3u8
 
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg" group-title="Chinese",
-
-台HBO SD
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg" group-title="Chinese",台HBO SD
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 
 #EXTINF:-1 tvg-logo="" group-title="Chinese",香港电影频道
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-
-
-1525422901-1_1200.m3u8
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Chinese",港星空卫视3
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
 #EXTINF:-1 tvg-logo="" group-title="Chinese",经典粤语喜剧片
-http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-
-
-0-1_1200.m3u8
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Chinese",周星弛电影台HD
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Chinese",翡翠台 Try
+#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="Chinese",翡翠台 Try
 http://14.199.11.35:9981/stream/channelid/1958045562
 
-#EXTINF:-1 tvg-logo="" group-title="Chinese",J2台 Try
-http://14.199.11.35:9981/stream/channelid/143767574
-
-#EXTINF:-1 tvg-logo="" group-title="Chinese",無綫新聞台 Try
+#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/NEWS2017_logo_L(1).jpg" group-title="Chinese",無綫新聞台 Try
 http://14.199.11.35:9981/stream/channelid/2000643225
 
-#EXTINF:-1 tvg-logo="" group-title="Chinese",無綫財經資訊台 Try
+#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" group-title="Chinese",無綫財經資訊台 Try
 http://14.199.11.35:9981/stream/channelid/263033942
 
-#EXTINF:-1 tvg-logo="" group-title="Chinese",ViuTV Try
-http://14.199.11.35:9981/stream/channelid/465387003
-
-#EXTINF:-1 tvg-logo="" group-title="Chinese",ViuTV Try 2
-https://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Chinese",RHK31 HK Try
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:RTHK_TV_31.svg" group-title="Chinese",RHK31 HK Try
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Chinese",RHK32 HK Try
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/rr/rthk_32_hk.png" group-title="Chinese",RHK32 HK Try
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", SKY NEWS
+#EXTINF:-1 tvg-logo="https://www.johuey.co.uk/wp-content/uploads/2017/05/Sky-News_Jo-Huey_Child-of-an-alcoholic_Interview.jpg" group-title="NEWS & DOC", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", CNN International 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f.jpg" group-title="NEWS & DOC", CNN International 
 http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", Channel News Asia 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg" group-title="NEWS & DOC", Channel News Asia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC",Animal Planet HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Animal_Planet_logo.svg" group-title="NEWS & DOC",Animal Planet HD 
 http://144.217.70.223:8080/ANIMALPLANETHD_Eng/index.m3u8 
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", Nat Geo People HD English 
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Nat_Geo_People#/media/File:New_NatGeo_People_logo.svg" group-title="NEWS & DOC", Nat Geo People HD English 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8 
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", Nat Geo People SD English
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Nat_Geo_People#/media/File:New_NatGeo_People_logo.svg" group-title="NEWS & DOC", Nat Geo People SD English
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", US-CNN Live(BK)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/eb/96/69/eb96695402222c9d860e6f0443b7062e.jpg" group-title="NEWS & DOC", US-CNN Live(BK)
 http://configuration.tn:8000/sbss25946/dcba2401/3657
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", CNN HD
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:CNN.svg" group-title="NEWS & DOC", CNN HD
 http://configuration.tn:8000/sbss25946/dcba2401/9162
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", USA Al-jazeera
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Al-jazeera-logo.jpg" group-title="NEWS & DOC", USA Al-jazeera
 http://configuration.tn:8000/sbss25946/dcba2401/1536
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", UK-RTE News
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Rtenewsnownewlogo.png" group-title="NEWS & DOC", UK-RTE News
 http://configuration.tn:8000/sbss25946/dcba2401/275
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", UK-Atlantic Try
-http://89.187.189.6:80/0NiTyWoAOS/OuruquTObQ/18024
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", UK-CHANNEL4 Try
-http://89.187.189.6:80/0NiTyWoAOS/OuruquTObQ/17995
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", UK-CHANNEL5 Try
-http://89.187.189.6:80/0NiTyWoAOS/OuruquTObQ/17994
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", CHANNEL 4 Try2
-http://89.187.189.6:80/0NiTyWoAOS/OuruquTObQ/46523
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", CHANNEL 5 Try2
-http://89.187.189.6:80/0NiTyWoAOS/OuruquTObQ/46522
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", BBC News 
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:BBC_News_HD_Logo.svg" group-title="NEWS & DOC", BBC News 
 https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", UK France24 Try
-http://223.204.71.133:9981/stream/channelid/769433876
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", Channel New Asia Try
-http://223.204.71.133:9981/stream/channelid/468187106
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", NHK World Japan Try
-http://223.204.71.133:9981/stream/channelid/732650588
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", Al Jazeera
-http://223.204.71.133:9981/stream/channelid/675525374
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", DW
-http://49.49.29.131:9981/stream/channelid/1419989468
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", ABC
-http://49.49.29.131:9981/stream/channelid/409262231
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", France24
-http://49.49.29.131:9981/stream/channelid/769433876
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS & DOC", FOX News
-http://49.49.29.131:9981/stream/channelid/1035005726
 
 
 
