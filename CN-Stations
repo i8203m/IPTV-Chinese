@@ -121,6 +121,9 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="NEWS & DOC", National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/77/3c/0a/773c0af3c4f03a9beea97135c7960bb6--history-channel-aliens-history.jpg" group-title="NEWS & DOC", H2 HD
+http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
+
 
 
 
