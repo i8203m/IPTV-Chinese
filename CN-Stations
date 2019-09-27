@@ -70,8 +70,14 @@ http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://www.johuey.co.uk/wp-content/uploads/2017/05/Sky-News_Jo-Huey_Child-of-an-alcoholic_Interview.jpg" group-title="NEWS & DOC", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:BBC_News_HD_Logo.svg" group-title="NEWS & DOC", BBC News 
+https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f.jpg" group-title="NEWS & DOC", CNN International 
 http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/CBS_News.svg" group-title="NEWS & DOC",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg" group-title="NEWS & DOC", Channel News Asia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -82,6 +88,24 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="NEWS & DOC",TRT World-UK
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="NEWS & DOC",NHK WORLD JAPAN
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="NEWS & DOC", RTE News 
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" group-title="NEWS & DOC", RT-USA
+https://secure-streams.akamaized.net/rt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/CGTN.svg" group-title="NEWS & DOC",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="NEWS & DOC",CGTN Documentary
+http://live.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Al-jazeera-logo.jpg" group-title="NEWS & DOC", Al-jazeera 
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Animal_Planet_logo.svg" group-title="NEWS & DOC",Animal Planet HD 
 http://144.217.70.223:8080/ANIMALPLANETHD_Eng/index.m3u8 
 
@@ -90,21 +114,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Nat_Geo_People#/media/File:New_NatGeo_People_logo.svg" group-title="NEWS & DOC", Nat Geo People SD English
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/eb/96/69/eb96695402222c9d860e6f0443b7062e.jpg" group-title="NEWS & DOC", US-CNN Live(BK)
-http://configuration.tn:8000/sbss25946/dcba2401/3657
-
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:CNN.svg" group-title="NEWS & DOC", CNN HD
-http://configuration.tn:8000/sbss25946/dcba2401/9162
-
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Al-jazeera-logo.jpg" group-title="NEWS & DOC", USA Al-jazeera
-http://configuration.tn:8000/sbss25946/dcba2401/1536
-
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Rtenewsnownewlogo.png" group-title="NEWS & DOC", UK-RTE News
-http://configuration.tn:8000/sbss25946/dcba2401/275
-
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:BBC_News_HD_Logo.svg" group-title="NEWS & DOC", BBC News 
-https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
 
 
 
