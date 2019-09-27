@@ -19,6 +19,9 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel5.jpg" group-title="Chinese",Singapore Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/RTHK_TV_31.svg" group-title="Chinese",RHK31 HK
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="Chinese",靖天欢乐HD
 http://61.58.60.230:9319/live/201.m3u8
 
@@ -61,16 +64,13 @@ http://14.199.11.35:9981/stream/channelid/2000643225
 #EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" group-title="Chinese",無綫財經資訊台 Try
 http://14.199.11.35:9981/stream/channelid/263033942
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:RTHK_TV_31.svg" group-title="Chinese",RHK31 HK Try
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/rr/rthk_32_hk.png" group-title="Chinese",RHK32 HK Try
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.johuey.co.uk/wp-content/uploads/2017/05/Sky-News_Jo-Huey_Child-of-an-alcoholic_Interview.jpg" group-title="NEWS & DOC", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:BBC_News_HD_Logo.svg" group-title="NEWS & DOC", BBC News 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/BBC_News_HD_Logo.svg" group-title="NEWS & DOC", BBC News 
 https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f.jpg" group-title="NEWS & DOC", CNN International 
@@ -89,7 +89,7 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg" group-title="NEWS & DOC",NHK WORLD JAPAN
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_ma_s.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="NEWS & DOC", RTE News 
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
