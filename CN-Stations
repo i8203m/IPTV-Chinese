@@ -46,13 +46,13 @@ http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 #EXTINF:-1 tvg-logo="" group-title="Chinese",香港电影频道
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Chinese",港星空卫视3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/XingXong.svg" group-title="Chinese",港星空卫视3
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
-#EXTINF:-1 tvg-logo="" group-title="Chinese",经典粤语喜剧片
+#EXTINF:-1 tvg-logo="https://imagev2.xmcdn.com/group22/M02/E2/8C/wKgJLljCOxzxn3dtAAJBT_PdfmE638.jpg" group-title="Chinese",经典粤语喜剧片
 http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Chinese",周星弛电影台HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/ChowKL1_%28cropped%29.JPG" group-title="Chinese",周星弛电影台HD
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="Chinese",翡翠台 Try
@@ -103,17 +103,23 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="NEWS & DOC",CGTN Documentary
 http://live.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Al-jazeera-logo.jpg" group-title="NEWS & DOC", Al-jazeera 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="NEWS & DOC", Al-jazeera 
 https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Animal_Planet_logo.svg" group-title="NEWS & DOC",Animal Planet HD 
 http://144.217.70.223:8080/ANIMALPLANETHD_Eng/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Nat_Geo_People#/media/File:New_NatGeo_People_logo.svg" group-title="NEWS & DOC", Nat Geo People HD English 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/640px-New_NatGeo_People_logo.svg.png" group-title="NEWS & DOC", Nat Geo People HD English 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8 
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Nat_Geo_People#/media/File:New_NatGeo_People_logo.svg" group-title="NEWS & DOC", Nat Geo People SD English
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/640px-New_NatGeo_People_logo.svg.png" group-title="NEWS & DOC", Nat Geo People SD English
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/640px-National_Geographic_Wild_logo.svg.png" group-title="NEWS & DOC", Nat Geo WILD 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="NEWS & DOC", National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
 
 
