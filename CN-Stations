@@ -73,17 +73,23 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/BBC_News_HD_Logo.svg" group-title="NEWS & DOC", BBC News 
 https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/FRANCE_24_logo.svg" group-title="NEWS & DOC",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f.jpg" group-title="NEWS & DOC", CNN International 
 http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/CBS_News.svg" group-title="NEWS & DOC",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/NBC_2014_Ident.svg" group-title="NEWS & DOC",USA NBC
+http://161.0.157.9/PLTV/88888888/224/3221227040/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/CNBC_logo.svg" group-title="NEWS & DOC", CNBC World
+http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg" group-title="NEWS & DOC", Channel News Asia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/FRANCE_24_logo.svg" group-title="NEWS & DOC",France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="NEWS & DOC",TRT World-UK
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
@@ -123,6 +129,18 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/77/3c/0a/773c0af3c4f03a9beea97135c7960bb6--history-channel-aliens-history.jpg" group-title="NEWS & DOC", H2 HD
 http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="NEWS & DOC", Al-jazeera (BK)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.johuey.co.uk/wp-content/uploads/2017/05/Sky-News_Jo-Huey_Child-of-an-alcoholic_Interview.jpg" group-title="NEWS & DOC", SKY NEWS (BK)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/NBC_2014_Ident.svg" group-title="NEWS & DOC",USA NBC (BK)
+http://161.0.157.9/PLTV/88888888/224/3221227040/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/CBS_News.svg" group-title="NEWS & DOC",CBS News (BK)
+http://161.0.157.9/PLTV/88888888/224/3221227041/01.m3u8
 
 
 
