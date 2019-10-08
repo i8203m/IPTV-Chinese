@@ -112,6 +112,9 @@ http://live.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="NEWS & DOC", Al-jazeera 
 https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/VOA_logo.svg" group-title="NEWS & DOC",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Animal_Planet_logo.svg" group-title="NEWS & DOC",Animal Planet HD 
 http://144.217.70.223:8080/ANIMALPLANETHD_Eng/index.m3u8 
 
