@@ -71,10 +71,10 @@ http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zZtoqgX.png" group-title="NEWS & DOC",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/NBC_2014_Ident.svg" group-title="NEWS & DOC",USA NBC
+#EXTINF:-1 tvg-logo="https://www.nbc.com/generetic/images/nbc_logo_og.jpg" group-title="NEWS & DOC",USA NBC
 http://161.0.157.9/PLTV/88888888/224/3221227040/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/CNBC_logo.svg" group-title="NEWS & DOC", CNBC World
+#EXTINF:-1 tvg-logo="https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif" group-title="NEWS & DOC", CNBC World
 http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCU1h8M.png" group-title="NEWS & DOC", Channel News Asia 
@@ -185,10 +185,10 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 #EXTINF:-1 tvg-logo="https://www.johuey.co.uk/wp-content/uploads/2017/05/Sky-News_Jo-Huey_Child-of-an-alcoholic_Interview.jpg" group-title="NEWS & DOC", SKY NEWS (BK)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/NBC_2014_Ident.svg" group-title="NEWS & DOC",USA NBC (BK)
+#EXTINF:-1 tvg-logo="https://www.nbc.com/generetic/images/nbc_logo_og.jpg" group-title="NEWS & DOC",USA NBC (BK)
 http://161.0.157.9/PLTV/88888888/224/3221227040/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/CBS_News.svg" group-title="NEWS & DOC",CBS News (BK)
+#EXTINF:-1 tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2017/12/12/77e5d36d-5915-46ce-b496-218c87d98c5d/thumbnail/1200x630/15dcb72c6fdec4125306ed9638345480/cbsnews-1600x900.jpg" group-title="NEWS & DOC",CBS News (BK)
 http://161.0.157.9/PLTV/88888888/224/3221227041/01.m3u8
 
 
