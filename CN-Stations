@@ -4,6 +4,9 @@ Chinese Language
 #EXTINF:tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="Chinese",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H36G8wZ.png" group-title="Chinese",RHK31 HK
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/HKSTV_Logo.jpg" group-title="Chinese",HKS 香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
@@ -16,11 +19,11 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/MediaCorp_ChannelU.jpg" group-title="Chinese",U 频道
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel5.jpg" group-title="Chinese",Singapore Channel 5 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/MediaCorp_Channel5.jpg" group-title="Chinese",Singapore Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/RTHK_TV_31.svg" group-title="Chinese",RHK31 HK
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="Chinese",民视新闻台 (Opt-1)
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="Chinese",靖天欢乐HD
 http://61.58.60.230:9319/live/201.m3u8
@@ -40,32 +43,18 @@ http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033705_42980.jpg" group-title="Chinese",靖天日本HD
 http://61.58.60.230:9319/live/243.m3u8
 
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg" group-title="Chinese",台HBO SD
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H36G8wZ.png" group-title="Chinese",RTHK TV 31 (Opt-2)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H36G8wZ.png" group-title="Chinese",RTHK TV 31 (Opt-3)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Chinese",香港电影频道
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/XingXong.svg" group-title="Chinese",港星空卫视3
-http://218.202.220.2:5000/nn_live.ts?id=STARTV
-
-#EXTINF:-1 tvg-logo="https://imagev2.xmcdn.com/group22/M02/E2/8C/wKgJLljCOxzxn3dtAAJBT_PdfmE638.jpg" group-title="Chinese",经典粤语喜剧片
-http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/ChowKL1_%28cropped%29.JPG" group-title="Chinese",周星弛电影台HD
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="Chinese",翡翠台 Try
-http://14.199.11.35:9981/stream/channelid/1958045562
-
-#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/NEWS2017_logo_L(1).jpg" group-title="Chinese",無綫新聞台 Try
-http://14.199.11.35:9981/stream/channelid/2000643225
-
-#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" group-title="Chinese",無綫財經資訊台 Try
-http://14.199.11.35:9981/stream/channelid/263033942
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="Chinese",民视新闻台 (Opt-2)
+http://210.61.56.23/hls/ftvtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/rr/rthk_32_hk.png" group-title="Chinese",RHK32 HK Try
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.johuey.co.uk/wp-content/uploads/2017/05/Sky-News_Jo-Huey_Child-of-an-alcoholic_Interview.jpg" group-title="NEWS & DOC", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
