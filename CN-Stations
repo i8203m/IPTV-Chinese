@@ -4,13 +4,13 @@ Chinese Language
 #EXTINF:tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="Chinese",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H36G8wZ.png" group-title="Chinese",RHK31 HK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="Chinese",RHK31 HK
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/HKSTV_Logo.jpg" group-title="Chinese",HKS 香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="Chinese",翡翠台HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="Chinese",翡翠台HD
 http://m.567it.com/jade.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel8.jpg" group-title="Chinese",Singapore Channel 8
@@ -22,37 +22,37 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/MediaCorp_Channel5.jpg" group-title="Chinese",Singapore Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
-#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="Chinese",民视新闻台 (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="Chinese",民视新闻台 (Opt-1)
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="Chinese",靖天欢乐HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvL7RcN.jpg" group-title="Chinese",靖天欢乐HD
 http://61.58.60.230:9319/live/201.m3u8
 
-#EXTINF:tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040756_51110.jpg" group-title="Chinese",靖洋戏剧 HD
+#EXTINF:tvg-logo="https://i.imgur.com/tTeeh74.jpg" group-title="Chinese",靖洋戏剧 HD
 http://61.58.60.230:9319/live/203.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040733_66835.jpg" group-title="Chinese",靖天育乐HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ET4VP4Q.jpg" group-title="Chinese",靖天育乐HD
 http://61.58.60.230:9319/live/204.m3u8
 
-#EXTINF:tvg-logo="https://twg.skyking.com.tw/skyking/Icon/087.png" group-title="Chinese",靖天國際嘉麗台
+#EXTINF:tvg-logo="https://i.imgur.com/A6ZIUdJ.jpg" group-title="Chinese",靖天國際嘉麗台
 http://61.58.60.230:9319/live/205.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033726_80065.jpg" group-title="Chinese",靖天电影
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwZb3Rq.jpg" group-title="Chinese",靖天映画台
 http://61.58.60.230:9319/live/244.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033705_42980.jpg" group-title="Chinese",靖天日本HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MPxWd75.jpg" group-title="Chinese",靖天日本HD
 http://61.58.60.230:9319/live/243.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H36G8wZ.png" group-title="Chinese",RTHK TV 31 (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="Chinese",RTHK TV 31 (Opt-2)
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H36G8wZ.png" group-title="Chinese",RTHK TV 31 (Opt-3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="Chinese",RTHK TV 31 (Opt-3)
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/902.png" group-title="Chinese",民视新闻台 (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="Chinese",民视新闻台 (Opt-2)
 http://210.61.56.23/hls/ftvtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/rr/rthk_32_hk.png" group-title="Chinese",RHK32 HK Try
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xM5ix6.png" group-title="Chinese",RHK32 HK Try
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 
 
