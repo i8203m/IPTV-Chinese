@@ -25,22 +25,22 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="Chinese",民视新闻台 (Opt-1)
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NvL7RcN.jpg" group-title="Chinese",靖天欢乐HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IIr1zOj.jpg" group-title="Chinese",靖天欢乐HD
 http://61.58.60.230:9319/live/201.m3u8
 
-#EXTINF:tvg-logo="https://i.imgur.com/tTeeh74.jpg" group-title="Chinese",靖洋戏剧 HD
+#EXTINF:tvg-logo="https://i.imgur.com/BSmInVB.jpg" group-title="Chinese",靖洋戏剧 HD
 http://61.58.60.230:9319/live/203.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ET4VP4Q.jpg" group-title="Chinese",靖天育乐HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XuyUeML.jpg" group-title="Chinese",靖天育乐HD
 http://61.58.60.230:9319/live/204.m3u8
 
-#EXTINF:tvg-logo="https://i.imgur.com/A6ZIUdJ.jpg" group-title="Chinese",靖天國際嘉麗台
+#EXTINF:tvg-logo="https://i.imgur.com/XGd5uPp.jpg" group-title="Chinese",靖天國際嘉麗台
 http://61.58.60.230:9319/live/205.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwZb3Rq.jpg" group-title="Chinese",靖天映画台
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61OkPzT.jpg" group-title="Chinese",靖天映画台
 http://61.58.60.230:9319/live/244.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MPxWd75.jpg" group-title="Chinese",靖天日本HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/52QADpM.jpg" group-title="Chinese",靖天日本HD
 http://61.58.60.230:9319/live/243.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="Chinese",RTHK TV 31 (Opt-2)
