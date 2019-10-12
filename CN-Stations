@@ -55,7 +55,6 @@ http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2xM5ix6.png" group-title="Chinese",RHK32 HK Try
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6mToY6r.jpg" group-title="NEWS & DOC", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
@@ -65,8 +64,11 @@ https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NEWS & DOC",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NEWS & DOC",France 24 (Opt#2)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lChIIXa.jpg" group-title="NEWS & DOC", CNN International 
-http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
+http://92.43.140.249/s27/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O91dopH.jpg" group-title="NEWS & DOC",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
