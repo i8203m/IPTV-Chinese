@@ -125,13 +125,13 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CggfOz3.png" group-title="NEWS & DOC", History Channel
-http:\\nitro.ltd:25461\demo\demo\1466
+http://nitro.ltd:25461/demo/demo/1466
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/77/3c/0a/773c0af3c4f03a9beea97135c7960bb6--history-channel-aliens-history.jpg" group-title="NEWS & DOC", H2 HD
 http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ah0QeKo.png" group-title="NEWS & DOC", Science Channel HD
-http:\\nitro.ltd:25461\demo\demo\1455
+http://nitro.ltd:25461/demo/demo/1455
 
 #EXTINF:-1 tvg-logo="https://julianlennon.com/wp-content/uploads/2019/03/dc47f97388f9d53558c127321a6caf3a-discovery-channel-logo-s.jpg" group-title="NEWS & DOC", Discovery Channel (Opt 1)
 http://80.80.160.168/live/8/live.m3u8
@@ -146,7 +146,7 @@ http://80.80.160.168/live/1/live.m3u8
 http://80.80.160.168/live/3/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tExVWJ5.png" group-title="NEWS & DOC",Travel Channel (Opt#2)
-http:\\nitro.ltd:25461\demo\demo\3655
+http://nitro.ltd:25461/demo/demo/3655
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Planet_Green_Logo.png" group-title="NEWS & DOC",Planet Green
 http://80.80.160.168/live/4/live.m3u8
