@@ -105,6 +105,9 @@ https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6mToY6r.jpg" group-title="NEWS & DOC", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5yrn6Lu.png" group-title="NEWS & DOC", EURONEWS
+https://stream-01.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxJtXnvD9z6tYZJaLOiXL_g)/dm/3/x2j4h4m/s/live-3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/91nOgQR.png" group-title="NEWS & DOC", BBC News 
 https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
 
