@@ -1,59 +1,106 @@
 Chinese Language
 
 #EXTM3U
-#EXTINF:tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="Chinese",香港开电视
+#EXTINF:tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="港澳台",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="Chinese",RHK31 HK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RHK31 HK
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/HKSTV_Logo.jpg" group-title="Chinese",HKS 香港衛視
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/HKSTV_Logo.jpg" group-title="港澳台",HKS 香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="Chinese",翡翠台HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台HD
 http://m.567it.com/jade.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel8.jpg" group-title="Chinese",Singapore Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LC5zsIF.png" group-title="港澳台",凤凰香港台
+http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/MediaCorp_ChannelU.jpg" group-title="Chinese",U 频道
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="港澳台",凤凰卫视中文台
+http://112.50.243.8/PLTV/88888888/224/3221225900/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/MediaCorp_Channel5.jpg" group-title="Chinese",Singapore Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" group-title="港澳台",明珠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="Chinese",民视新闻台 (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1Channel
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台 (Opt-1)
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IIr1zOj.jpg" group-title="Chinese",靖天欢乐HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IIr1zOj.jpg" group-title="港澳台",靖天欢乐HD
 http://61.58.60.230:9319/live/201.m3u8
 
-#EXTINF:tvg-logo="https://i.imgur.com/BSmInVB.jpg" group-title="Chinese",靖洋戏剧 HD
+#EXTINF:tvg-logo="https://i.imgur.com/BSmInVB.jpg" group-title="港澳台",靖洋戏剧 HD
 http://61.58.60.230:9319/live/203.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XuyUeML.jpg" group-title="Chinese",靖天育乐HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XuyUeML.jpg" group-title="港澳台",靖天育乐HD
 http://61.58.60.230:9319/live/204.m3u8
 
-#EXTINF:tvg-logo="https://i.imgur.com/XGd5uPp.jpg" group-title="Chinese",靖天國際嘉麗台
-http://61.58.60.230:9319/live/205.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61OkPzT.jpg" group-title="Chinese",靖天映画台
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61OkPzT.jpg" group-title="港澳台",靖天映画台
 http://61.58.60.230:9319/live/244.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/52QADpM.jpg" group-title="Chinese",靖天日本HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/52QADpM.jpg" group-title="港澳台",靖天日本HD
 http://61.58.60.230:9319/live/243.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="Chinese",RTHK TV 31 (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2XaM0uk.png" group-title="港澳台",澳亞衛視
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Q652si.jpg" group-title="港澳台",澳视澳门
+http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RTHK TV 31 (Opt-2)
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="Chinese",RTHK TV 31 (Opt-3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RTHK TV 31 (Opt-3)
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="Chinese",民视新闻台 (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台 (Opt-2)
 http://210.61.56.23/hls/ftvtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2xM5ix6.png" group-title="Chinese",RHK32 HK Try
-http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xM5ix6.png" group-title="港澳台",RHK32 HK 
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+
+#EXTINF:tvg-logo="https://i.imgur.com/XGd5uPp.jpg" group-title="Malaysia / Singapore", 國際嘉麗台
+http://61.58.60.230:9319/live/205.m3u8
+
+#EXTINF:tvg-logo="https://i.imgur.com/H9UZ9a3.jpg" group-title="Malaysia / Singapore",Astro Awani
+
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+#EXTINF:tvg-logo="https://i.imgur.com/H9UZ9a3.jpg" group-title="Malaysia / Singapore",Astro Awani
+ (Opt#2)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+
+#EXTINF:tvg-logo="https://i.imgur.com/zakpyMQ.jpg" group-title="Malaysia / Singapore",RTM Saluran Berita
+http://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
+
+#EXTINF:tvg-logo="https://i.imgur.com/CRuDUhj.jpg" group-title="Malaysia / Singapore",RTM Sports
+http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+
+#EXTINF:tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="Malaysia / Singapore", NTV7 
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcyRVkfZylT_CVCva7vdhvo)/dm/3/x6qp6ou/s/live-4.m3u8
+
+#EXTINF:tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="Malaysia / Singapore", 8TV 
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTptcH-xuYE-mMh1EtthfLQ)/dm/3/x6qud17/s/live-4.m3u8
+
+#EXTINF:tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="Malaysia / Singapore", TV9 
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHW6sWxxF0l7K_prV_vFGKXM)/dm/3/x6qqja6/s/live-4.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel8.jpg" group-title="Malaysia / Singapore",Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/MediaCorp_ChannelU.jpg" group-title="Malaysia / Singapore",U 频道
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/MediaCorp_Channel5.jpg" group-title="Malaysia / Singapore",Channel 5 
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCU1h8M.png" group-title="Malaysia / Singapore",Channel News Asia
+http://210.210.155.35/uq2663/h/h29/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6PcLnwx.png" group-title="Malaysia / Singapore",OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6mToY6r.jpg" group-title="NEWS & DOC", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
