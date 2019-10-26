@@ -37,6 +37,9 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3xXQZv0.png" group-title="港澳台",有线电视第一台
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/32tOChd.jpg" group-title="港澳台",香港电影频道
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2XaM0uk.png" group-title="港澳台",澳亞衛視
 http://stream.mastvnet.com/MSTV/playlist.m3u8
 
