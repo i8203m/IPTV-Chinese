@@ -34,6 +34,15 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1Channel
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3xXQZv0.png" group-title="港澳台",有线电视第一台
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2XaM0uk.png" group-title="港澳台",澳亞衛視
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Q652si.jpg" group-title="港澳台",澳视澳门
+http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台 (Opt-1)
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 
@@ -52,11 +61,6 @@ http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/52QADpM.jpg" group-title="港澳台",靖天日本HD
 http://61.58.60.230:9319/live/243.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2XaM0uk.png" group-title="港澳台",澳亞衛視
-http://stream.mastvnet.com/MSTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Q652si.jpg" group-title="港澳台",澳视澳门
-http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RHK31 HK (Opt-1)
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
