@@ -35,7 +35,25 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SoO2XDD.jpg" group-title="港澳台",明珠台
 http://218.102.66.166:8001/bysid/2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3xXQZv0.png" group-title="港澳台",有线电视第一台
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台
+https://r05.wscdn.hls.xiaoka.tv/live/0b9e7993c881bd8804a7b9aaba1b3a71b3037b1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wyhjmRY.jpg" group-title="港澳台",無綫 J2 台
+https://r05.wscdn.hls.xiaoka.tv/live/1cc1a8f3d2a144a7207aaf81aba1a272c3b97db/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3owPnE.jpg" group-title="港澳台",Viu TV
+https://r05.wscdn.hls.xiaoka.tv/live/a41a1495a37aa8cfe9141aba1bcbaab9c7176dc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lPG7HZs.png" group-title="港澳台",無綫新聞台
+https://r05.wscdn.hls.xiaoka.tv/live/fdab4611686ab1aba1acec12bde6dacb3a8b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lPG7HZs.png" group-title="港澳台",無綫新聞台
+http://107.148.215.110:13164/vplay.m3u8?token=v0PfygsA0Exq6pKW0zy4bVep&tid=gt&id=9&p=3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UOXER9b.jpg" group-title="港澳台",有綫新聞台
+https://r05.wscdn.hls.xiaoka.tv/live/1c878e2bbab9a68260d5d1ddf3cc41a1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UOXER9b.jpg" group-title="港澳台",有线电视第一台
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/32tOChd.jpg" group-title="港澳台",香港电影频道
