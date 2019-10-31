@@ -109,6 +109,9 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/st
  (Opt#2)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 
+#EXTINF:tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="Malaysia / Singapore",Astro Prima
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
+
 #EXTINF:tvg-logo="https://i.imgur.com/zakpyMQ.jpg" group-title="Malaysia / Singapore",RTM Saluran Berita
 http://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
 
