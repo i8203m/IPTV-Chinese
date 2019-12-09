@@ -154,7 +154,7 @@ https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6mToY6r.jpg" group-title="NEWS & DOC", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5yrn6Lu.png" group-title="NEWS & DOC", EURONEWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5yrn6Lu.png" group-title="NEWS & DOC", EURONEWS (YouTube)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1575914533/ei/xTfuXfTzGa2lz7sPk9OQ0A0/ip/202.187.151.36/id/WpP_2D80cPo.0/source/yt_live_broadcast/requiressl/yes/tx/23722139/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/my/go/1/keepalive/yes/fexp/23842630%2C23860863/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhALEYAXS80_HON92IiwtIbabBdPcZMZ1VwY6gEiHHksfvAiEA5baFoA8_jKxeOo6zXKXeJxWgjFUNyl03w_mAise6Ed8%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/91nOgQR.png" group-title="NEWS & DOC", BBC News 
@@ -169,6 +169,12 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lChIIXa.jpg" group-title="NEWS & DOC", CNN International 
 http://92.43.140.249/s27/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sm3oBw4.jpg" group-title="NEWS & DOC", Bloomberg Global News (YouTube)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1575920449/ei/4U7uXZf_HovE1AaWzbSACA/ip/202.187.151.36/id/dp8PhLsUcFE.3/source/yt_live_broadcast/requiressl/yes/tx/23722139/txs/23722138%2C23722139/hfr/1/maudio/1/go/1/keepalive/yes/fexp/23842630%2C23860863/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgDVLc-ITLqbD0WUmUAxrwJ3tr-UO33VVe1pkF8chMvB8CIBm_C0R3njFIfikc7QtIkk5Ccgas9EOb65VQxIY7_6-H/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OAUKT48.png" group-title="NEWS & DOC", DW News (YouTube)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1575921441/ei/wFLuXZPzN-K83LUP_ZSk4A4/ip/202.187.151.36/id/NvqKZHpKs-g.499/source/yt_live_broadcast/requiressl/yes/tx/23722139/txs/23722138%2C23722139/hfr/1/maudio/1/go/1/keepalive/yes/fexp/23842630%2C23860863/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIga44ANGn7ORN09eX5YUM53WINomU0APJHjzEcng_kHHkCIQDTSDPWQahv9NDEhWa-CiPqEy7CpQPY62l1rsdO5EdQfA%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O91dopH.jpg" group-title="NEWS & DOC",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
@@ -177,6 +183,9 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCU1h8M.png" group-title="NEWS & DOC", Channel News Asia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCU1h8M.png" group-title="NEWS & DOC", Channel News Asia (YouTube) 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1575921499/ei/-lLuXbunOOjCz7sPquGtgAo/ip/202.187.151.36/id/JvZVnBn6zEI.537/source/yt_live_broadcast/requiressl/yes/tx/23722139/txs/23722138%2C23722139/hfr/1/maudio/1/go/1/keepalive/yes/fexp/23842630%2C23860863/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIgR2zcWVB5e6wu5lKnuwbsfjG-h0g7bBU3Dn8DxGmhbK4CIQCvTS51CVfuJBLL1TjPZNFTsjItcokQ8scuoDZvZBi4Ow%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="NEWS & DOC",TRT World-UK
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
