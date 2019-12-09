@@ -155,7 +155,7 @@ https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5yrn6Lu.png" group-title="NEWS & DOC", EURONEWS
-https://stream-01.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxJtXnvD9z6tYZJaLOiXL_g)/dm/3/x2j4h4m/s/live-3.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1575914533/ei/xTfuXfTzGa2lz7sPk9OQ0A0/ip/202.187.151.36/id/WpP_2D80cPo.0/source/yt_live_broadcast/requiressl/yes/tx/23722139/txs/23722138%2C23722139/hfr/1/maudio/1/gcr/my/go/1/keepalive/yes/fexp/23842630%2C23860863/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhALEYAXS80_HON92IiwtIbabBdPcZMZ1VwY6gEiHHksfvAiEA5baFoA8_jKxeOo6zXKXeJxWgjFUNyl03w_mAise6Ed8%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/91nOgQR.png" group-title="NEWS & DOC", BBC News 
 https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
