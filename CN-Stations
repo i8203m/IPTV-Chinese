@@ -23,6 +23,9 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iLFZehN.png" group-title="港澳台",鳳凰資訊台 HD
 http://117.169.120.138:8080/live/fhzixun/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLFZehN.png" group-title="港澳台",鳳凰資訊台 HD
+http://112.50.243.10/PLTV/88888888/224/3221225901/2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台HD
 http://m.567it.com/jade.m3u8
 
@@ -41,8 +44,11 @@ https://r05.wscdn.hls.xiaoka.tv/live/0b9e7993c881bd8804a7b9aaba1b3a71b3037b1/pla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wyhjmRY.jpg" group-title="港澳台",無綫 J2 台
 https://r05.wscdn.hls.xiaoka.tv/live/1cc1a8f3d2a144a7207aaf81aba1a272c3b97db/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4SZjNe.png" group-title="港澳台",TVB 星河频道
+http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=m02000000000015391574&ct=17984&tsum=168fc6ebb3cd296ba6444593acba415d
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3owPnE.jpg" group-title="港澳台",Viu TV
-https://r05.wscdn.hls.xiaoka.tv/live/a41a1495a37aa8cfe9141aba1bcbaab9c7176dc/playlist.m3u8
+http://59.148.103.41:8000/bysid/99
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lPG7HZs.png" group-title="港澳台",無綫新聞台
 https://r05.wscdn.hls.xiaoka.tv/live/fdab4611686ab1aba1acec12bde6dacb3a8b/playlist.m3u8
@@ -140,7 +146,7 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCU1h8M.png" group-title="Malaysia / Singapore",Channel News Asia
-http://210.210.155.35/uq2663/h/h29/01.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PcLnwx.png" group-title="Malaysia / Singapore",OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
