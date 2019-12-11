@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6mToY6r.jpg" group-title="NEWS & DOCU", SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/91nOgQR.png" group-title="NEWS & DOCU", BBC World News 
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/BBC1.uk.png" group-title="NEWS & DOCU", BBC 1
+https://bozztv.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/BBC2.uk.png" group-title="NEWS & DOCU", BBC 2
+https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NEWS & DOCU",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NEWS & DOCU",France 24 (Opt#2)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lChIIXa.jpg" group-title="NEWS & DOCU", CNN International 
+http://92.43.140.249/s27/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="NEWS & DOCU", ABC (US) News 
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO9gSje.png" group-title="NEWS & DOCU", CNBC
+https://1636691764.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OAUKT48.png" group-title="NEWS & DOCU", DW News
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O91dopH.jpg" group-title="NEWS & DOCU",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCU1h8M.png" group-title="NEWS & DOCU", Channel News Asia 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="NEWS & DOCU",TRT World-UK
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="NEWS & DOCU",NHK WORLD JAPAN
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zx64ozN.png" group-title="NEWS & DOCU", RT-International
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zx64ozN.png" group-title="NEWS & DOCU", RT - USA
+http://rt-usa.secure.footprint.net:80/1105_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zx64ozN.png" group-title="NEWS & DOCU", RT - UK
+http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://america.cgtn.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" group-title="NEWS & DOCU",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="NEWS & DOCU",CGTN Documentary
+http://live.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="NEWS & DOCU", Al-jazeera 
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Cheddar_logo.png" group-title="NEWS & DOCU", Cheddar News (New!)
+https://live.chdrstatic.com/cbn/primary/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Cheddar_logo.png" group-title="NEWS & DOCU", Cheddar Business (New!)
+https://live.chdrstatic.com/cheddar/primary/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7zieaS3.png" group-title="NEWS & DOCU",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="NEWS & DOCU", Nat Geo People HD English 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="NEWS & DOCU", Nat Geo People SD English
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="NEWS & DOCU", Nat Geo WILD 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="NEWS & DOCU", National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/77/3c/0a/773c0af3c4f03a9beea97135c7960bb6--history-channel-aliens-history.jpg" group-title="NEWS & DOCU", H2 HD
+http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="NEWS & DOCU",Nat Geo People (MENA)
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="NEWS & DOCU",Nat Geo Wild (MENA)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="NEWS & DOCU",National Geographic (MENA)
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="NEWS & DOCU",Court TV
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hpNZhUr.png" group-title="NEWS & DOCU",ABC News Live 1
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hpNZhUr.png" group-title="NEWS & DOCU",ABC News Live 2
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hpNZhUr.png" group-title="NEWS & DOCU",ABC News Live 3
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hpNZhUr.png" group-title="NEWS & DOCU",ABC News Live 4
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hpNZhUr.png" group-title="NEWS & DOCU",ABC News Live 5
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hpNZhUr.png" group-title="NEWS & DOCU",ABC News Live 6
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hpNZhUr.png" group-title="NEWS & DOCU",ABC News Live 7
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hpNZhUr.png" group-title="NEWS & DOCU",ABC News Live 8
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hpNZhUr.png" group-title="NEWS & DOCU",ABC News Live 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hpNZhUr.png" group-title="NEWS & DOCU",ABC News Live 10
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="NEWS & DOCU", Al-jazeera (BK)
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.johuey.co.uk/wp-content/uploads/2017/05/Sky-News_Jo-Huey_Child-of-an-alcoholic_Interview.jpg" group-title="NEWS & DOCU", SKY NEWS (BK)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O91dopH.jpg" group-title="NEWS & DOCU",CBS News (BK)
+http://161.0.157.9/PLTV/88888888/224/3221227041/01.m3u8
+
