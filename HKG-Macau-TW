@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:tvg-logo="https://i.imgur.com/oIRxwu9.png" group-title="港澳台",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RHK31 HK (rthk.hk)
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xM5ix6.png" group-title="港澳台",RHK32 HK (rthk.hk)
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/HKSTV_Logo.jpg" group-title="港澳台",HKS 香港衛視
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LC5zsIF.png" group-title="港澳台",鳳凰香港台
+http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+
+#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="港澳台",凤凰中文台
+http://112.50.243.8/PLTV/88888888/224/3221225900/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="港澳台",凤凰中文台 HD
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLFZehN.png" group-title="港澳台",鳳凰資訊台 HD
+http://117.169.120.138:8080/live/fhzixun/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLFZehN.png" group-title="港澳台",鳳凰資訊台 HD
+http://112.50.243.10/PLTV/88888888/224/3221225901/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台HD
+http://m.567it.com/jade.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SoO2XDD.jpg" group-title="港澳台",明珠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6L4wHIc.jpg" group-title="港澳台",翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1Channel
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4SZjNe.png" group-title="港澳台",TVB 星河频道
+http://50.7.161.82:8278/Xinhe/playlist.m3u8?tid=m02000000000015391574&ct=17984&tsum=168fc6ebb3cd296ba6444593acba415d
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3owPnE.jpg" group-title="港澳台",Viu TV
+http://59.148.103.41:8000/bysid/99
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UOXER9b.jpg" group-title="港澳台",有线电视第一台
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/32tOChd.jpg" group-title="港澳台",香港电影频道
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2XaM0uk.png" group-title="港澳台",澳亞衛視
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Q652si.jpg" group-title="港澳台",澳视澳门
+http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台 (Opt-1)
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IIr1zOj.jpg" group-title="港澳台",靖天欢乐HD
+http://61.58.60.230:9319/live/201.m3u8
+
+#EXTINF:tvg-logo="https://i.imgur.com/BSmInVB.jpg" group-title="港澳台",靖洋戏剧 HD
+http://61.58.60.230:9319/live/203.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XuyUeML.jpg" group-title="港澳台",靖天育乐HD
+http://61.58.60.230:9319/live/204.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61OkPzT.jpg" group-title="港澳台",靖天映画台
+http://61.58.60.230:9319/live/244.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/52QADpM.jpg" group-title="港澳台",靖天日本HD
+http://61.58.60.230:9319/live/243.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RHK31 HK (Opt-1)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xM5ix6.png" group-title="港澳台",RHK32 HK (Opt-2)
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RTHK TV 31 (Opt-2)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qixFINZ.png" group-title="港澳台",RTHK TV 31 (Opt-3)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcpTbU2.jpg" group-title="港澳台",民视新闻台 (Opt-2)
+http://210.61.56.23/hls/ftvtv/index.m3u8
