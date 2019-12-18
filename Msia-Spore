@@ -9,17 +9,16 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/st
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 
 #EXTINF:tvg-logo="https://www.xtra.com.my/img/logo/ntv7.png" group-title="Malaysia / Singapore", NTV7 
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX0kDW8fIW_KFGga5Hun0FE)/dm/3/x6qp6ou/s/live-4.m3u8
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX0kDW8fIW_KFGga5Hun0FE)/dm/3/x6qp6ou/s/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWlQTl0-i8AOIWpeZriwWME)/dm/3/x6qp6ou/s/live-4.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaDsi_fE2ctrSukSUx9mr5I)/dm/3/x6qp6ou/s/live-4.m3u8
 
 #EXTINF:tvg-logo="https://www.xtra.com.my/img/logo/8tv.png" group-title="Malaysia / Singapore", 8TV  
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbONq9b4GsachXUG-Bwvtkw)/dm/3/x6qud17/s/live-4.m3u8
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbONq9b4GsachXUG-Bwvtkw)/dm/3/x6qud17/s/live-4.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQyzhPFuGcaOUrw2MSK3odk)/dm/3/x6qud17/s/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSprzSdSvzQSZUFfs1hbQX0)/dm/3/x6qud17/s/live-4.m3u8
 
 #EXTINF:tvg-logo="https://www.xtra.com.my/img/logo/tv9.png" group-title="Malaysia / Singapore", TV9  
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeEH7E8jy-mCeHIa48AKFaY)/dm/3/x6qqja6/s/live-4.m3u8
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUMNBGTCG5fhLF3IHodkKbI)/dm/3/x6qqja6/s/live-4.m3u8
-
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUDfXDMEPadqkkfR57y76fo)/dm/3/x6qqja6/s/live-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/MediaCorp_Channel8.jpg" group-title="Malaysia / Singapore",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
